@@ -1,4 +1,4 @@
-FROM ghcr.io/jadams/kubeflow-notebook-server-base:main
+FROM ghcr.io/jadams/kubeflow-notebook-server:main
 
 USER root
 
